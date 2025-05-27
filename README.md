@@ -28,7 +28,29 @@ More than aesthetics, IT needs efficiency.
 
 ---
 
+
 ## 📦 How to use
 
 ```bash
 bash faxina.sh
+
+---
+
+## 🔐 Safe and documented
+
+Every command in this script is carefully selected to avoid breaking system dependencies or deleting important data.  
+All lines are commented to explain their purpose — transparency and safety come first.
+
+---
+
+## 👤 Author
+
+Made with 🧠 by [Daniel Pedroso](https://www.linkedin.com/in/daniel-alexandre-pedroso-49993934/)  
+GitHub: [Amonvix](https://github.com/Amonvix)
+
+---
+
+## 🏷️ Tags
+
+`#ShellScript` `#macOS` `#Performance` `#ITOps` `#IncidentResponse`
+
