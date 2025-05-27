@@ -2,23 +2,33 @@
   <img src="icon.png" width="120" alt="Faxina.sh logo">
 </p>
 
-# Mac-Utility
+<h1 align="center">faxina.sh 🧼</h1>
+<p align="center">Performance script for macOS – clean, simple, powerful.</p>
 
-Script created by Amon so that the machine of his love can act with full force.
+---
 
-The execution of the Cleaning does not affect any library or pre-established configuration, since it performs the cleaning without using the Sudo command.
+## 🚀 About the project
 
-Always running in Administrator mode.
+More than aesthetics, IT needs efficiency.  
+`faxina.sh` is a custom shell script made to optimize macOS performance, safely cleaning up clutter and restarting key services — all with a professional mindset.
 
-1st way to run the Script:
+> Ideal for those who work with incidents, support, DevOps, or just want a clean, responsive mac.
 
--> chmod +x Faxina.sh (makes it executable)
--> ./Faxina.sh (runs the Script)
+---
 
-2nd way to run the Script:
+## 🛠️ What does the script do?
 
--> bash Faxina.sh (already runs the file without the need to modify the file)
+- 🔄 Flushes DNS cache  
+- 🧽 Removes system and user caches  
+- ☠️ Kills zombie or network-intensive processes  
+- 📄 Deletes old log files  
+- 🗑️ Empties the trash  
+- 🌐 Restarts network services  
+- 💾 Frees up inactive RAM (visual)
 
-I hope you like it, I learned how to do it so I can help you with the crashes.
+---
 
-I love you
+## 📦 How to use
+
+```bash
+bash faxina.sh
