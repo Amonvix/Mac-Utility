@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="120" alt="Faxina.sh logo">
+</p>
+
 # Mac-Utility
 
 Script created by Amon so that the machine of his love can act with full force.
