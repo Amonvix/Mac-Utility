@@ -33,6 +33,7 @@ More than aesthetics, IT needs efficiency.
 
 ```bash
 bash faxina.sh
+```
 
 ---
 
@@ -49,6 +50,14 @@ Made with 🧠 by [Daniel Pedroso](https://www.linkedin.com/in/daniel-alexandre-
 GitHub: [Amonvix](https://github.com/Amonvix)
 
 ---
+
+## 🏷️ Tags
+
+`#ShellScript` `#macOS` `#Performance` `#ITOps` `#IncidentResponse`
+
+
+
+
 
 ## 🏷️ Tags
 
